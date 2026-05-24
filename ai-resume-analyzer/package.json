@@ -1,0 +1,13 @@
+{
+  "name": "ai-resume-analyzer",
+  "version": "1.0.0",
+  "description": "Full-stack AI Resume Analyzer using MERN + Groq LLM",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "start:server": "cd server && npm start"
+  },
+  "keywords": ["resume", "ai", "ats", "nlp", "groq", "mern"],
+  "license": "MIT"
+}
