@@ -579,3 +579,11 @@ server/
 ├── uploads/
 ├── server.js
 └── package.json
+
+
+https://github.com/user-attachments/assets/d55484ba-65f5-428d-ab6d-26bbaf745e0b
+
+
+
+
+
